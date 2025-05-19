@@ -278,7 +278,7 @@
               "type": "START",
               "authorization": {
                 "type": "QR",
-                "token": "BUCCGCtoi4e1IIUSSt0Qq8sVL/BKtg==,-1,2",
+                "token": "Some Token",
                 "status": "UNCLAIMED",
                 "valid_to": "2025-05-20T11:39:46.796Z"
               }
@@ -309,7 +309,7 @@
               "type": "START",
               "authorization": {
                 "type": "QR",
-                "token": "BUCCGCtoi4e1IIUSSt0Qq8sVL/BKtg==,-1,2",
+                "token": "Some Token",
                 "status": "UNCLAIMED",
                 "valid_to": "2025-05-20T11:39:46.796Z"
               }
@@ -340,7 +340,7 @@
               "type": "START",
               "authorization": {
                 "type": "QR",
-                "token": "BUCCGCtoi4e1IIUSSt0Qq8sVL/BKtg==,-1,2",
+                "token": "Some Token",
                 "status": "UNCLAIMED",
                 "valid_to": "2025-05-20T11:39:46.796Z"
               }
