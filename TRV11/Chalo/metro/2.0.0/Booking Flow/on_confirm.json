@@ -85,7 +85,7 @@
               },
               "authorization": {
                 "type": "QR",
-                "token": "PPjxdNBTUqgL8ofa9uidWesLDywQSh377GPkzuTcTPw=",
+                "token": "Some Token",
                 "status": "UNCLAIMED",
                 "valid_to": "2025-05-19T17:59:14.732Z"
               },
